@@ -32,7 +32,7 @@ test("Convert to image with Github CSS template", async () => {
     mdFile: sourceTest,
     outputFilename,
     cssTemplate: "github",
-    width: 1000,
+    width: 400,
     log: true,
   });
   expect(convertRes.path).toBe(outputFilename);
@@ -44,7 +44,7 @@ test("Convert to image with Github Dark CSS template", async () => {
     mdFile: sourceTest,
     outputFilename,
     cssTemplate: "githubDark",
-    width: 1000,
+    width: 400,
     log: true,
   });
   expect(convertRes.path).toBe(outputFilename);

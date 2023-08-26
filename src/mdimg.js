@@ -128,6 +128,7 @@ async function convert2img({
     defaultViewport: {
       width,
       height,
+      deviceScaleFactor: 3,
     },
     args: [`--window-size=${width},${height}`],
     ...puppeteerProps,

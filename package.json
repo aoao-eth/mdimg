@@ -1,8 +1,14 @@
 {
-  "name": "mdimg",
-  "version": "0.2.3",
+  "name": "yutou_cn_mdimg",
+  "version": "0.2.9",
   "description": "Covert Markdown or HTML to image",
-  "keywords": ["markdown", "html", "image", "md2img", "html2img"],
+  "keywords": [
+    "markdown",
+    "html",
+    "image",
+    "md2img",
+    "html2img"
+  ],
   "engines": {
     "node": ">= 12.0.0"
   },
@@ -12,7 +18,15 @@
     "mdimg": "./bin/mdimg.js"
   },
   "types": "./types.d.ts",
-  "files": ["README.md", "types.d.ts", "bin/", "lib/", "src/", "template/css/", "template/html/"],
+  "files": [
+    "README.md",
+    "types.d.ts",
+    "bin/",
+    "lib/",
+    "src/",
+    "template/css/",
+    "template/html/"
+  ],
   "scripts": {
     "mdimg": "node ./bin/mdimg.js",
     "test": "jest --roots test --testTimeout 15000",

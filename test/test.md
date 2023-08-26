@@ -1,35 +1,30 @@
-Test source from: https://github.com/markedjs/marked/blob/master/docs/demo/initial.md
+#### 【🧡 WonderPals Family 🧡2⃣】的今日群聊总结（2023-08-24）
 
-# Marked - Markdown Parser
+---
 
-[Marked] lets you convert [Markdown] into HTML. Markdown is a simple text format whose goal is to be very easy to read and write, even when not converted to HTML. This demo page will let you type anything you like and see how it gets converted. Live. No more waiting around.
+```
+以下是今日的群聊报告:
+1️⃣ 盐贩子话题🔥🔥
+参与者:苏轼比亚、大马哈鱼、嗨噗💌、Jake Pan
+时间段:22:26 - 22:33
+过程:苏轼比亚表示自己家的地震屯盐终于卖完了,大马哈鱼和嗨噗💌问到是否赚钱回本了,Jake Pan 说这比 NFT 更赚钱,大马哈鱼表示家人都在变着法儿自由。
+评价:大家聊起了盐贩子赚钱的话题,气氛活跃。
+------------
+2️⃣ 吃三文鱼话题🔥🔥🔥
+参与者:Jake Pan、大马哈鱼
+时间段:22:34 - 22:35
+过程:Jake Pan 说今天去河马吃三文鱼没了,大马哈鱼回应还能吃得起三文鱼已经很不错了,表示以后可能吃不到了,Jake Pan 说以后没得吃就要趁现在好好吃一顿。
+评价:两人聊起了吃三文鱼的话题,表达了对未来生活的担忧。
+------------
+3️⃣ 发图话题🔥
+参与者:任嘉
+时间段:23:07
+过程:任嘉发了一张图片。
+评价:任嘉在最后发了一张有趣的图片。
+------------
+今日群聊内容丰富,话题从盐贩子、三文鱼到图片,气氛活跃。大家聊天氛围融洽,内容充满正能量。
+```
 
-## How To Use The Demo
+---
 
-1. Type in stuff on the left.
-2. See the live updates on the right.
-
-That's it. Pretty simple. There's also a drop-down option in the upper right to switch between various views:
-
-- **Preview:** A live display of the generated HTML as it would render in a browser.
-- **HTML Source:** The generated HTML before your browser makes it pretty.
-- **Lexer Data:** What [marked] uses internally, in case you like gory stuff like this.
-- **Quick Reference:** A brief run-down of how to format things using markdown.
-
-## Why Markdown?
-
-It's easy. It's not overly bloated, unlike HTML. Also, as the creator of [markdown] says,
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-Ready to start writing? Either start changing stuff on the left or
-[clear everything](/demo/?text=) with a simple click.
-
-[marked]: https://github.com/markedjs/marked/
-[markdown]: http://daringfireball.net/projects/markdown/
+本总结由 wx.zhinang.ai 生成。
